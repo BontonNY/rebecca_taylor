@@ -1,0 +1,7 @@
+.welcome-msg {
+	display: inline-block;
+}
+
+.welcome-msg p {
+	margin: 0;
+}
